@@ -1,6 +1,6 @@
-# Chinmay Murkar Portfolio
+# Chinmay Murkar Portfolio 
 
-Personal portfolio website showcasing my skills, projects, certifications, and experience in QA Testing and Data Analysis.
+Personal portfolio website showcasing my skills, projects, certifications, and experience in Data Analysi and  QA Testing .
 
 ## Technologies Used
 - HTML
